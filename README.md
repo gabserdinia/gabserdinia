@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabserdinia
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning github
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me gabo.serdinia@gmail.com
 
